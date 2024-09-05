@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sugupu>
+	<inimine synniaasta="1952">
+		<nimi>Valentina</nimi>
+		<synniaasta>1952</synniaasta>
+		<synnikoht>Dimyansk</synnikoht>
+		<lapsed>
+			<inimine synniaasta="1983">
+				<nimi>Oksana</nimi>
+				<synniaasta>1983</synniaasta>
+				<synnikoht>Tapa</synnikoht>
+				<lapsed>
+					<inimine synniaasta="2005">
+						<nimi>Artur</nimi>
+						<synniaasta>2005</synniaasta>
+						<synnikoht>Tallinn</synnikoht>
+					</inimine>
+					<inimine synniaasta="2009">
+						<nimi>Aleksandr</nimi>
+						<synniaasta>2009</synniaasta>
+						<synnikoht>Tallinn</synnikoht>
+					</inimine>
+					<inimine synniaasta="2012">
+						<nimi>Arina</nimi>
+						<synniaasta>2012</synniaasta>
+						<synnikoht>Tallinn</synnikoht>
+					</inimine>
+					<inimine synniaasta="2017">
+						<nimi>Arsenii</nimi>
+						<synniaasta>2017</synniaasta>
+						<synnikoht>Tallinn</synnikoht>
+					</inimine>
+				</lapsed>
+			</inimine>
+			<inimine synniaasta="1985">
+				<nimi>Alyona</nimi>
+				<synniaasta>1985</synniaasta>
+				<synnikoht>Tapa</synnikoht>
+				<lapsed>
+					<inimine synniaasta="2024">
+						<nimi>Amelia</nimi>
+						<synniaasta> 2024</synniaasta>
+						<synnikoht>Tallinn</synnikoht>
+					</inimine>
+				</lapsed>
+			</inimine>
+		</lapsed>
+	</inimine>
+	<inimine synniaasta="1955">
+		<nimi>Aleksander</nimi>
+		<synniaasta>1955</synniaasta>
+		<synnikoht>St.Pitersburg</synnikoht>
+		<lapsed>
+			<inimine>
+				<nimi></nimi>
+				<synniaasta></synniaasta>
+			</inimine>
+		</lapsed>
+	</inimine>
+	<inimine synniaasta="1939">
+		<nimi>Galina</nimi>
+		<synniaasta>1939</synniaasta>
+		<synnikoht>Narva</synnikoht>
+		<lapsed>
+			<inimine synniaasta="1980">
+				<nimi>Leonid</nimi>
+				<synniaasta> 1980</synniaasta>
+				<synnikoht>Narva</synnikoht>
+				<lapsed>
+					<inimine>
+						<nimi></nimi>
+						<synniaasta></synniaasta>
+						<synnikoht></synnikoht>
+					</inimine>
+				</lapsed>
+			</inimine>
+			<inimine synniaasta="1970">
+				<nimi>Ilana</nimi>
+				<synniaasta>1970</synniaasta>
+				<synnikoht>Narva</synnikoht>'<lapsed>
+					<lapsed>
+						<inimine>
+							<nimi></nimi>
+							<synniaasta></synniaasta>
+							<synnikoht></synnikoht>
+						</inimine>
+					</lapsed>
+				</lapsed>
+			</inimine>
+		</lapsed>
+	</inimine>
+</sugupu>
